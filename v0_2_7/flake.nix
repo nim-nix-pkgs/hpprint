@@ -11,7 +11,6 @@
   inputs.src-hpprint-v0_2_7.ref   = "refs/tags/v0.2.7";
   inputs.src-hpprint-v0_2_7.owner = "haxscramper";
   inputs.src-hpprint-v0_2_7.repo  = "hpprint";
-  inputs.src-hpprint-v0_2_7.dir   = "";
   inputs.src-hpprint-v0_2_7.type  = "github";
   
   inputs."shell".owner = "nim-nix-pkgs";

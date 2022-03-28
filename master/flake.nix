@@ -11,7 +11,6 @@
   inputs.src-hpprint-master.ref   = "refs/heads/master";
   inputs.src-hpprint-master.owner = "haxscramper";
   inputs.src-hpprint-master.repo  = "hpprint";
-  inputs.src-hpprint-master.dir   = "";
   inputs.src-hpprint-master.type  = "github";
   
   inputs."hdrawing".owner = "nim-nix-pkgs";
