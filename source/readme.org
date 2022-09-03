@@ -1,1 +1,0 @@
-* DEPRECATED, use [[https://haxscramper.github.io/hmisc/src/hmisc/other/hpprint.html][hmisc/other/hpprint]]
